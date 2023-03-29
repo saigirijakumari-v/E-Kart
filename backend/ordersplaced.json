@@ -1,0 +1,33 @@
+[{
+  "name": "Compact Powder",
+  "price": 300,
+  "quantity": 7
+},{
+  "name": "Cream",
+  "price": 400,
+  "quantity": 5
+},{
+  "name": "Body Lotion",
+  "price": 150,
+  "quantity": 3
+},{
+  "name": "Tops",
+  "price": 100,
+  "quantity": 3
+},{
+  "name": "Pants",
+  "price": 500,
+  "quantity": 9
+},{
+  "name": "Jacket",
+  "price": 1000,
+  "quantity": 2
+},{
+  "name": "Pigeon By Stovekraft Favourite",
+  "price": 745,
+  "quantity": 5
+},{
+  "name": "Signoraware",
+  "price": 288,
+  "quantity": 12
+}]
